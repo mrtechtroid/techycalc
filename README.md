@@ -6,6 +6,8 @@ Release Date: 20th July 2020 12:00 P.M (IST) Or 20th July 2020 6:30 A.M (Univers
 Required Libraries:  
 Already Installed With Python Installation: math , cmath  
 Additional Installations: numpy , hashlib  
+Supported Operating Systems: Windows  
+If you Dont have the supported OS You can use the online interpreter Repl.It using the link given here: https://repl.it/@mrtechtroid
 1. Normal Calculator - This includes basic functanality of mathamatical operators. This Includes Addition, subtraction, multiplication and division.  
 2. Scientific Calculator - In this feature you can calculate Trignometric Functions(like sin,cos,tan,etc) , Logarithms(In Development) , Positive And Negitive Powers(like 2^2 and 2^-2) , Imaginary Numbers(like 1+2i,etc) , Dot And Cross Products , Scalars And Vectors , Factor Calculator(Prime Numbers And Composite Numbers) and  Multiple Calculator(Multiplication Table).  
 3. Graphing Calculator - In Development and will be Released In Version 2.0 of the build. You can use it but it may not run properly as expected.  
@@ -13,22 +15,39 @@ Additional Installations: numpy , hashlib
 5. Geometry - This includes Areas Of 2D and 3D figures and some additional properties , Paraalelograms And Triangles Relations, Heron's Formula and Triangle Checker.  
 6. Unit Convertor - Multiples and Submultiples of SI Units , Length, Area ,Volume ,Mass ,Density ,Volumetric Liquid Flow ,Volumetric Gas Flow ,Mass Flow,High Pressure ,Low Pressure ,Speed ,Torque ,Dynamic Viscosity,Kinematic Viscosity ,Temperature Conversion Formulas.  
 7. Help Center - Some additional Terms And Conditions
-## Version 1.1 (Proposed)
+## Upcoming Additional Features
+This section Is For Information of the Proposed Releases. 
+### Version 1.1 (Proposed)
 Proposed Release Date: 20th August 12:00 P.M (IST) Or 20th August 6:30 A.M (Universal Time) 
 1. Additional Functonality to Solve CBSE Class 9 to 12, Numericals using the inbuilt Features.  
 2. Addition of GUI for Version 1.0 Build.  
 3. Ability to Calculate Roots of Cubic And Bi-Quadratic(Quartic) Equations 
-## Version 1.2 (Proposed)
+4. Additional Language support for Hindi 
+### Version 1.2 (Proposed)
 Proposed Release Date: 1st October 12:00 P.M (IST) Or 1st October 6:30 A.M (Universal Time) 
 1. Graphical Calculator 
 2. Brute Force Password Calculator
 3. Time Diffrence Calculator
-## Web Version 1 (Proposed)
+### Web Version 1 (Proposed)
 Proposed Release Date: 15th November 12:00 P.M (IST) Or 15th November 6:30 A.M (Universal Time)
-1. Release Of the App on Web Based Platform On https://mrtechtroid.github.io/apps/techycalc
+1. Release Of the App(Version 1.0) on Web Based Platform On https://mrtechtroid.github.io/apps/techycalc
 2. Exclusive Features to Web Platform
-## Version 1.3 (Proposed)
+### Version 1.3 (Proposed)
 Proposed Release Date: 1st January 12:00 P.M (IST) Or 1st January 6:30 A.M (Universal Time)
 1. AI Based Platform for Question solving of Numericals of Class 9 and 10 
-
-
+2. Cross-Platform support for Linux And Mac-OS
+3. Release Of App in Executable Format to Allow Non-Python Users to use the app too..... 
+### Version 1.4 (Proposed)
+Proposed Release Date: 1st March 12:00 P.M (IST) Or 1st March 6:30 A.M (Universal Time)
+1. AI Based Platform for Question solving of Numericals of Class 11 and 12. 
+2. Additional Langauge Support for some aditional Langauges.
+3. Exclusive Web Platform features will be added to the App
+### Web Version 2 (Proposed)
+Proposed Release Date: 1st April 12:00 P.M (IST) Or 1st April 6:30 A.M (Universal Time)
+1. Release of the app(Version 1.2 and some features of 1.3 and 1.4) on the Web Based Platform
+## Additional Info
+Read the License Here: https://github.com/mrtechtroid/techycalc/LICENSE
+Please Note that the above proposed release date can be changed without prior notice.   
+You can read the full Beginner's Guide here: https://mrtechtroid.github.io/b-guide.html
+#### Contributors to this App:  
+1. Mr Techtroid - https://github.com/mrtechtroid  - Main App Developer
