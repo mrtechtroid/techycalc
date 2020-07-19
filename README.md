@@ -5,7 +5,7 @@ Below is the list of versions along with the features included with the Orignal 
 Release Date: 20th July 2020 12:00 P.M (IST) Or 20th July 2020 6:30 A.M (Universal Time)
 Required Libraries:  
 Already Installed With Python Installation: math , cmath  
-Additional Installations: numpy , hashlib  , mathplotlib
+Additional Installations: numpy , hashlib  , mathplotlib  
 Supported Operating Systems: Windows  
 If you Dont have the supported OS You can use the online interpreter Repl.It using the link given here: https://repl.it/@mrtechtroid
 1. Normal Calculator - This includes basic functanality of mathamatical operators. This Includes Addition, subtraction, multiplication and division.  
