@@ -2,4 +2,4 @@ Name: Techy Calc
 Creator: Mr Techtroid
 Version: 1.0.0.0
 License: MIT License
-Description: This Is App Provides A Ton Of Features Related to Calculations Of Various Items In Maths.
+Description: This Is App Provides A Ton Of Features Related to Calculations Of Various Items.
