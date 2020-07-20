@@ -2,7 +2,7 @@
 An All In One Super Calculator which has been made for helping everyone.  Built in Python
 Below is the list of versions along with the features included with the Orignal Build along with future updates.
 ## Version 1.0
-Release Date: 25th July 2020 12:00 P.M (IST) Or 20th July 2020 6:30 A.M (Universal Time)
+Release Date: 25th July 2020 12:00 P.M (IST) Or 20th July 2020 6:30 A.M (Universal Time)  
 Required Libraries:  
 Already Installed With Python Installation: math , cmath  
 Additional Installations: numpy , hashlib  , mathplotlib  
