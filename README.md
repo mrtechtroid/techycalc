@@ -13,7 +13,7 @@ If you Dont have the supported OS You can use the online interpreter Repl.It usi
 3. Graphing Calculator - Some basic trignometric functions and equations are available for use. Other features will be introduced in Version 1.2.  
 4. Root Solver - This includes Linear Equations(One and Two Variables) , Pair Of Linear Equations, Quadratic Equations and Cubic Equations(Can Provide Only one root).  
 5. Geometry - This includes Areas Of 2D and 3D figures and some additional properties , Paraalelograms And Triangles Relations, Heron's Formula and Triangle Checker.  
-6. Unit Convertor - Multiples and Submultiples of SI Units , Length, Area ,Volume ,Mass ,Density ,Volumetric Liquid Flow ,Volumetric Gas Flow ,Mass Flow,High Pressure ,Low Pressure ,Speed ,Torque ,Dynamic Viscosity,Kinematic Viscosity ,Temperature Conversion Formulas.  
+6. Unit Convertor - Multiples and Submultiples of SI Units , Length, Area ,Volume ,Mass ,Density ,Volumetric Gas Flow ,Mass Flow, ,Speed ,Torque ,Dynamic Viscosity,Kinematic Viscosity ,Temperature Conversion Formulas.  
 7. Help Center - Some additional Terms And Conditions
 ## Upcoming Additional Features
 This section Is For Information of the Proposed Releases. 
@@ -23,6 +23,7 @@ Proposed Release Date: 20th August 12:00 P.M (IST) Or 20th August 6:30 A.M (Univ
 2. Addition of GUI for Version 1.0 Build.  
 3. Ability to Calculate Roots of Cubic And Bi-Quadratic(Quartic) Equations 
 4. Additional Language support for Hindi 
+5. Addition of High Pressure ,Low Pressure and Volumetric Liquid Flow in Unit Converter. 
 ### Version 1.2 (Proposed)
 Proposed Release Date: 1st October 12:00 P.M (IST) Or 1st October 6:30 A.M (Universal Time) 
 1. Additional Features to Graphical Calculator 
