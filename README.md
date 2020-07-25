@@ -2,7 +2,7 @@
 An All In One Super Calculator which has been made for helping everyone.  Built in Python
 Below is the list of versions along with the features included with the Orignal Build along with future updates.
 ## Version 1.0
-Release Date: 25th July 2020 12:00 P.M (IST) Or 20th July 2020 6:30 A.M (Universal Time)  
+Release Date: 20th July 2020 12:00 P.M (IST) Or 20th July 2020 6:30 A.M (Universal Time)  
 Required Libraries:  
 Already Installed With Python Installation: math , cmath  
 Additional Installations: numpy , hashlib  , mathplotlib  
@@ -47,7 +47,7 @@ Proposed Release Date: 1st March 12:00 P.M (IST) Or 1st March 6:30 A.M (Universa
 Proposed Release Date: 1st April 12:00 P.M (IST) Or 1st April 6:30 A.M (Universal Time)
 1. Release of the app(Version 1.2 and some features of 1.3 and 1.4) on the Web Based Platform
 ## Additional Info
-1. Read the License Here: https://github.com/mrtechtroid/techycalc/LICENSE
+1. Read the License Here: https://github.com/mrtechtroid/techycalc/blob/master/LICENSE
 2. Please Note that the above proposed release date can be changed without prior notice.   
 3. You can read the full Beginner's Guide here: https://mrtechtroid.github.io/b-guide.html
 4. You can recomend us extra features and we will try to bring in the upcoming releases. 
