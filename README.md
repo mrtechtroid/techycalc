@@ -49,7 +49,6 @@ Proposed Release Date: 1st April 12:00 P.M (IST) Or 1st April 6:30 A.M (Universa
 ## Additional Info
 1. Read the License Here: https://github.com/mrtechtroid/techycalc/blob/master/LICENSE
 2. Please Note that the above proposed release date can be changed without prior notice.   
-3. You can read the full Beginner's Guide here: https://mrtechtroid.github.io/b-guide.html
-4. You can recomend us extra features and we will try to bring in the upcoming releases. 
+3. You can recomend us extra features and we will try to bring in the upcoming releases. 
 #### Contributors to this App:  
 1. Mr Techtroid - https://github.com/mrtechtroid  - Main App Developer
