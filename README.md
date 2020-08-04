@@ -18,7 +18,7 @@ If you Dont have the supported OS You can use the online interpreter Repl.It usi
 ## Upcoming Additional Features
 This section Is For Information of the Proposed Releases. 
 ### Version 1.1 (Proposed)
-Proposed Release Date: 20th August 12:00 P.M (IST) Or 20th August 6:30 A.M (Universal Time) 
+Proposed Release Date: 30th August 12:00 P.M (IST) Or 30th August 6:30 A.M (Universal Time) 
 1. Additional Functonality to Solve CBSE Class 9 to 12, Numericals using the inbuilt Features.  
 2. Addition of GUI for Version 1.0 Build.  
 3. Ability to Calculate Roots of Cubic And Bi-Quadratic(Quartic) Equations 
