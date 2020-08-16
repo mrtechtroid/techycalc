@@ -5,8 +5,9 @@ Below is the list of versions along with the features included with the Orignal 
 1. Read the License Here: https://github.com/mrtechtroid/techycalc/blob/master/LICENSE
 2. If you are using any code or gist of code from this repository you need to Attribute to this profile as follows:  
 #### Some Parts Of The Code Has Been Taken From Github:Mrtechtroid/techycalc
-3. Please Note that the above proposed release date can be changed without prior notice.   
+3. Please Note that the below proposed release date can be changed without prior notice.   
 4. You can recomend us extra features and we will try to bring in the upcoming releases. 
+5. You can help us adding new features to this repository and becoming a contributor.... For that you can contact us using our website. 
 #### Contributors to this App:  
 1. Mr Techtroid - https://github.com/mrtechtroid  - Main App Developer
 ## Version 1.0
@@ -54,4 +55,3 @@ Proposed Release Date: 1st March 12:00 P.M (IST) Or 1st March 6:30 A.M (Universa
 ### Web Version 2 (Proposed)
 Proposed Release Date: 1st April 12:00 P.M (IST) Or 1st April 6:30 A.M (Universal Time)
 1. Release of the app(Version 1.2 and some features of 1.3 and 1.4) on the Web Based Platform
-
