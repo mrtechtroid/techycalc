@@ -8,6 +8,7 @@ Below is the list of versions along with the features included with the Orignal 
 3. Please Note that the below proposed release date can be changed without prior notice.   
 4. You can recomend us extra features and we will try to bring in the upcoming releases. 
 5. You can help us adding new features to this repository and becoming a contributor.... For that you can contact us using our website. 
+6. By using this App you agree that you will not use this app for any malicious purposes and use this Legally. 
 #### Contributors to this App:  
 1. Mr Techtroid - https://github.com/mrtechtroid  - Main App Developer
 ## Version 1.0
