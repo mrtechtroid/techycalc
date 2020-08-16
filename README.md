@@ -1,6 +1,14 @@
 # TechyCalc 
 An All In One Super Calculator which has been made for helping everyone.  Built in Python
 Below is the list of versions along with the features included with the Orignal Build along with future updates.
+## Terms of Usage And Additional Information
+1. Read the License Here: https://github.com/mrtechtroid/techycalc/blob/master/LICENSE
+2. If you are using any code or gist of code from this repository you need to Attribute to this profile as follows:  
+#### Some Parts Of The Code Has Been Taken From Github:Mrtechtroid/techycalc
+3. Please Note that the above proposed release date can be changed without prior notice.   
+4. You can recomend us extra features and we will try to bring in the upcoming releases. 
+#### Contributors to this App:  
+1. Mr Techtroid - https://github.com/mrtechtroid  - Main App Developer
 ## Version 1.0
 Release Date: 20th July 2020 12:00 P.M (IST) Or 20th July 2020 6:30 A.M (Universal Time)  
 Required Libraries:  
@@ -20,10 +28,9 @@ This section Is For Information of the Proposed Releases.
 ### Version 1.1 (Proposed)
 Proposed Release Date: 30th August 12:00 P.M (IST) Or 30th August 6:30 A.M (Universal Time) 
 1. Additional Functonality to Solve CBSE Class 9 to 12, Numericals using the inbuilt Features.  
-2. Addition of GUI for Version 1.0 Build.  
-3. Ability to Calculate Roots of Cubic And Bi-Quadratic(Quartic) Equations 
+2.  Ability to Calculate Roots of Cubic And Bi-Quadratic(Quartic) Equations 
+3. Addition of High Pressure ,Low Pressure and Volumetric Liquid Flow in Unit Converter.
 4. Additional Language support for Hindi 
-5. Addition of High Pressure ,Low Pressure and Volumetric Liquid Flow in Unit Converter. 
 ### Version 1.2 (Proposed)
 Proposed Release Date: 1st October 12:00 P.M (IST) Or 1st October 6:30 A.M (Universal Time) 
 1. Additional Features to Graphical Calculator 
@@ -33,6 +40,7 @@ Proposed Release Date: 1st October 12:00 P.M (IST) Or 1st October 6:30 A.M (Univ
 Proposed Release Date: 15th November 12:00 P.M (IST) Or 15th November 6:30 A.M (Universal Time)
 1. Release Of the App(Version 1.0) on Web Based Platform On https://mrtechtroid.github.io/apps/techycalc
 2. Exclusive Features to Web Platform
+3. Addition of GUI for Version 1.0 Build.  
 ### Version 1.3 (Proposed)
 Proposed Release Date: 1st January 12:00 P.M (IST) Or 1st January 6:30 A.M (Universal Time)
 1. AI Based Platform for Question solving of Numericals of Class 9 and 10 
@@ -46,9 +54,4 @@ Proposed Release Date: 1st March 12:00 P.M (IST) Or 1st March 6:30 A.M (Universa
 ### Web Version 2 (Proposed)
 Proposed Release Date: 1st April 12:00 P.M (IST) Or 1st April 6:30 A.M (Universal Time)
 1. Release of the app(Version 1.2 and some features of 1.3 and 1.4) on the Web Based Platform
-## Additional Info
-1. Read the License Here: https://github.com/mrtechtroid/techycalc/blob/master/LICENSE
-2. Please Note that the above proposed release date can be changed without prior notice.   
-3. You can recomend us extra features and we will try to bring in the upcoming releases. 
-#### Contributors to this App:  
-1. Mr Techtroid - https://github.com/mrtechtroid  - Main App Developer
+
