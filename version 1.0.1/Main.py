@@ -1,4 +1,40 @@
-
+def menu():
+    print("1. Normal Calculator")
+    print("2. Scientific Calculator")
+    print("3. Graphing Calculator")
+    print("4. Solving The Roots Of Equations")
+    print("5. Geometry")
+    print("6. Unit Converter")
+    print("7. Help Center")
+    print("8. Text Hasher")
+    print("9. Exit")
+    opt = input("Enter The Category:")
+    if opt == "1":
+        normal()
+    elif opt == "2":
+        scientific()
+    elif opt == "3":
+        graphingcalc()
+    elif opt == "4":
+        rootsolve()
+    elif opt == "5":
+        geometry()
+    elif opt == "6":
+        print("Use the app named unitconverter.py")
+        input("Press Enter to continue:")
+        menu()
+    elif opt == "7":
+        helpcenter()
+    elif opt == "misc":
+        print("Use the app named plugins.py")
+        input("Press Enter to continue:")
+        menu()
+    elif opt == "8":
+        passhash()
+    elif opt == "9":
+        exit()
+    else:
+        menu()
 def normal():
     print("Welcome To Normal Calculator")
     print("Here you can Add(+), Subtract(-), Multiply(*) and Divide(/)")
@@ -114,16 +150,18 @@ def rootsolve():
 
     def cubic():
         print("Enter The Values As Per the standard Form-ax^3+bx^2+cx+d=0")
-        print("Please Note: This can be used only to find one Root.")
-        a = input("a:")
-        b = input("b:")
-        c = input("c:")
-        d = input("d:")
-        p = (- float(b))/(3*(float(a)))
-        q = ((p**3)+(((float(b))*(float(c)))-(3*((float(a))*(float(d)))))/(6*((float(a))**2)))
-        r = ((float(c))/(3*float(a)))
-        root = (q + (q**2 + (r-p**2)**3)**1/2)**1/3+(q - (q**2 + (r-p**2)**3)**1/2)**1/3+p
-        print("One of the roots is "+str(root))
+        a = int(input("a:"))
+        b = int(input("b:"))
+        c = int(input("c:"))
+        d = int(input("d:"))
+        q = ((3*a*c)-(b*b))/(9*a*a)
+        r = ((9*b*c*a)-(27*a*a*d)-(2*b*b*b))/(54*a*a*a)
+        s = (r+(((q**3)+(r**2))**(1./2)))**(1./3)
+        t = (r-(((q**3)+(r**2))**(1./2)))**(1./3)
+        x_1 = (s)+(t)-(b/3*a)
+        y_1 = -((s+t)/2) -(b/(3*a))+ ((((-3)**(1./2))/2)*(s-t))     
+        z_1 = -((s+t)/2) -(b/(3*a))- ((((-3)**(1./2))/2)*(s-t))  
+        print("Roots are : ", x_1,y_1,z_1)
         print("Do you want to go back or re-calculate")
         msgres = input("1. Go Back 2. Recalculate:")
         if msgres == "1":
@@ -145,43 +183,7 @@ def rootsolve():
         menu()
     else:
         exit()
-def menu():
-    print("1. Normal Calculator")
-    print("2. Scientific Calculator")
-    print("3. Graphing Calculator")
-    print("4. Solving The Roots Of Equations")
-    print("5. Geometry")
-    print("6. Unit Converter")
-    print("7. Help Center")
-    print("8. Text Hasher")
-    print("9. Exit")
-    opt = input("Enter The Category:")
-    if opt == "1":
-        normal()
-    elif opt == "2":
-        scientific()
-    elif opt == "3":
-        graphingcalc()
-    elif opt == "4":
-        rootsolve()
-    elif opt == "5":
-        geometry()
-    elif opt == "6":
-        print("Use the app named unitconverter.py")
-        input("Press Enter to continue:")
-        menu()
-    elif opt == "7":
-        helpcenter()
-    elif opt == "misc":
-        print("Use the app named plugins.py")
-        input("Press Enter to continue:")
-        menu()
-    elif opt == "8":
-        passhash()
-    elif opt == "9":
-        exit()
-    else:
-        menu()
+
 def helpcenter():
     print(
         "[______] ____ ____     \\\\  // _____  _____   ||     _____      \n"
@@ -1043,4 +1045,7 @@ def passhash():
 
 print("TechyCalc 1.0 By MrTechtroid")
 print("Visit github.com/mrtechtroid For More Apps")
+
+
+
 menu()
